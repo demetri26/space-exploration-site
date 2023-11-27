@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0px;
+}
+
+#hero {
+    background-size: cover;
+    background-image: url("images/galaxy.gif");
+    padding: 10px 0px 50px 0px;
+    color: #cec0c5;
+}
+
+.btn-apply {
+    border: none;
+    background-color: white;
+    padding: 6px 12px;
+    font-family: inherit;
+    font-weight: bold;
+    color: #706169;
+}
+
+.span-underline {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+#spacex-logo {
+    width: 100px;
+    border: 2px solid white;
+}
+
+.footer {
+    background-color: white;
+    color: #706169;
+}
+
+.blur {
+    text-shadow: 0px 0px 4px white;
+}
